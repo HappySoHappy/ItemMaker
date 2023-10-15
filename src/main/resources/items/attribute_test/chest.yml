@@ -1,0 +1,9 @@
+#
+id: chest
+
+properties:
+  material: diamond_chestplate
+  enchantment:
+    - UNBREAKING 1
+  attribute:
+    - CHEST GENERIC_MAX_HEALTH 2 ADD_NUMBER

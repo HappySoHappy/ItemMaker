@@ -1,0 +1,9 @@
+
+#
+id: rainbow_boots
+
+properties:
+  material: leather_boots
+
+attributes:
+  rainbow-leather: 1

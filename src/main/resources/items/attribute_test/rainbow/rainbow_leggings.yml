@@ -1,0 +1,8 @@
+#
+id: rainbow_leggings
+
+properties:
+  material: leather_leggings
+
+attributes:
+  rainbow-leather: 1

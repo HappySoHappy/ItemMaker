@@ -1,0 +1,9 @@
+#
+id: helmet
+
+properties:
+  material: diamond_helmet
+  enchantment:
+    - UNBREAKING 1
+  attribute:
+    - HEAD GENERIC_MAX_HEALTH 2 ADD_NUMBER

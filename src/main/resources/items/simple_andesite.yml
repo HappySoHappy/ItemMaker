@@ -1,0 +1,25 @@
+#
+id: simple-andesite
+revision: 69
+
+properties:
+  material: andesite
+  display-name: "<#747878>Awesome <lang:item.minecraft.diamond_sword> :)"
+  custom-model: 65000
+  damage: 400
+  lore:
+    - "<rainbow>This is incredible Andesite, one of a kind...</rainbow>"
+  enchantment:
+    - sharpness
+    - UNBREAKING 1
+    - EFFICIENCY 2
+  flag:
+    - HIDE_UNBREAKABLE
+  attribute:
+    - CHEST GENERIC_ARMOR 1 ADD_SCALAR
+    - HAND GENERIC_ATTACK_DAMAGE 0.5
+  unstackable: true
+
+attributes:
+  hello-world: 0
+  unrepairable: 1

@@ -1,0 +1,12 @@
+#
+id: test_sword
+revision: 1
+
+properties:
+  material: diamond_sword
+  display-name: "<#747878><lang:item.minecraft.diamond_sword>"
+  enchantment:
+    - UNBREAKING 1
+attributes:
+  unsmithable: 1
+  ungrindable: 1

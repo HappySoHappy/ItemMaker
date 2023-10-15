@@ -1,0 +1,8 @@
+#
+id: rainbow_helmet
+
+properties:
+  material: leather_helmet
+
+attributes:
+  rainbow-leather: 1

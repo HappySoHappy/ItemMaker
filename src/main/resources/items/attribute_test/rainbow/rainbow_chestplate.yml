@@ -1,0 +1,8 @@
+#
+id: rainbow_chestplate
+
+properties:
+  material: leather_chestplate
+
+attributes:
+  rainbow-leather: 1

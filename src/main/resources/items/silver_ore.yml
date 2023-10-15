@@ -1,0 +1,12 @@
+#
+id: silver_ore
+
+properties:
+  material: iron_ore
+  display-name: "<#C0C0C0>Silver Ore"
+
+attributes:
+  unsmeltable: 1
+
+contexts:
+  context-generic: yes

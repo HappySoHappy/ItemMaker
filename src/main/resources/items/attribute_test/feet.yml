@@ -1,0 +1,9 @@
+#
+id: feet
+
+properties:
+  material: diamond_boots
+  enchantment:
+    - UNBREAKING 1
+  attribute:
+    - FEET GENERIC_MAX_HEALTH 2 ADD_NUMBER

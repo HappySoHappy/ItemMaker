@@ -1,0 +1,9 @@
+#
+id: legs
+
+properties:
+  material: diamond_leggings
+  enchantment:
+    - UNBREAKING 1
+  attribute:
+    - LEGS GENERIC_MAX_HEALTH 2 ADD_NUMBER
