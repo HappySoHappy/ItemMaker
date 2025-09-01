@@ -3,7 +3,7 @@ plugins {
     id 'jacoco'
     id 'com.github.johnrengelman.shadow' version '8.1.1'
     id 'kr.entree.spigradle' version '2.4.3'
-    id 'io.freefair.lombok' version '8.0.1'
+    id 'io.freefair.lombok' version '8.14.2'
     id 'nebula.release' version '17.2.1'
 }
 
